@@ -8,3 +8,6 @@ Steps To Install
 6. npm install react --save
 7. npm install react-dom --save
 8. npm install babel-core
+9. npm install babel-loader
+10. npm install babel-preset-react
+11. npm install babel-preset-es2015
